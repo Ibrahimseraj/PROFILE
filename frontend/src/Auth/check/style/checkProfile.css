@@ -1,0 +1,74 @@
+.check-profile-con {
+    width: 100%;
+}
+
+.check-profile {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.nav-bar-check-profile {
+    width: 100%;
+}
+
+.nav-bar-check-profile h1 {
+    color: #3CB371;
+    font-family: 'Cinzel Decorative', 'Amita', 'Ms Madi', cursive;
+}
+
+.check-profile-details {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+.check-profile-details a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    margin: 10px;
+    background-color: #3CB371;
+    color: white;
+    width: 40%;
+    border-radius: 5px;
+}
+
+@media all and (max-width: 1024px) and (min-width: 878px) {
+    .check-profile {
+        width: 100%;
+    }
+}
+
+@media all and (max-width: 877px) and (min-width: 768px) {
+    .check-profile {
+        width: 100%;
+    }
+}
+
+
+@media all and (max-width: 767px) and (min-width: 631px) {
+    .check-profile {
+        width: 100%;
+    }
+}
+
+
+@media all and (max-width: 631px) and (min-width: 557px) {
+    .check-profile {
+        width: 100%;
+    }
+}
+
+@media all and (max-width: 556px) and (min-width: 481px) {
+    .check-profile {
+        width: 100%;
+    }
+}
+
+
+@media all and (max-width: 481px) {
+    .check-profile {
+        width: 100%;
+    }
+}
