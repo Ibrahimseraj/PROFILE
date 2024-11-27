@@ -36,7 +36,7 @@ function Home() {
     fetchData();
   }, []);
 
-  const textToCopy = `https://profile-m1gnkl8ou-ibrahims-projects-89099fa6.vercel.app/profile/${portfolioId}`;
+  const textToCopy = `https://get-profile.vercel.app/profile/${portfolioId}`;
   const tempInputRef = useRef(null);
 
   const handleCopy = () => {
